@@ -6,7 +6,10 @@ Python-Game-Codes
 =================
 These python scripts are my mini-projects from "An Introduction to Interactive Programming in Python" on Coursera.
 
-The codes are stored on CodeSkulptor, which runs Python programs in your browser.
+The codes can be loaded into CodeSkulptor: http://www.codeskulptor.org/, and games can then be played through GUI.
+
+A description of CodeSkulptor can be found here: http://www.codeskulptor.org/docs.html#tabs-Python
+
 
 <p>The projects are as follows:</p>
  <ol>
@@ -18,4 +21,4 @@ The codes are stored on CodeSkulptor, which runs Python programs in your browser
  <li>Spaceship from "RiceRocks" game</li>
   <li>Full "RiceRocks" game</li>
 </ol>
-By clicking the links in the files, you would access the codes. By running the code, you would enjoy the games then!
+Hope you enjoy these mini-games.
